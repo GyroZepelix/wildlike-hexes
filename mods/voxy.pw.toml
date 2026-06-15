@@ -1,0 +1,8 @@
+name = "Voxy"
+filename = "voxy-0.2.13-alpha.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/GyroZepelix/wildlike-hexes/refs/heads/master/mods/voxy-0.2.13-alpha.jar"
+hash-format = "sha512"
+hash = "dc855e7fe80d61ba24e667dd3fa21b3c19c85e722b9c1c8940ddacc431c672c1c678e5727bfa15ae06a511337956cbb9752ff07bd5ba9c2af1556a3eedcec196"

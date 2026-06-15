@@ -1,5 +1,6 @@
 spec/
 scripts/
+mods/voxy-0.2.13-alpha.jar
 *.md
 *.mrpack
 *.zip

@@ -1,0 +1,17 @@
+[flavor_groups.shaders]
+name = "Shaders"
+description = "Install Iris shader support. Enable this if you want to use shader packs; it may reduce FPS on lower-end systems."
+side = "client"
+choices = ["shaders_off", "shaders_on"]
+
+[flavor_groups.high_render]
+name = "High chunk rendering"
+description = "Install Voxy for far-distance LOD chunk rendering. This is heavier and may be unstable on some systems."
+side = "client"
+choices = ["high_render_off", "high_render_on"]
+
+[metafile.iris]
+flavors = "shaders_on"
+
+[metafile.voxy]
+flavors = "high_render_on"

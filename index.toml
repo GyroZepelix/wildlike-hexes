@@ -774,8 +774,9 @@ hash = "407b6a954f9c3aee145dfa649eaa0b336a6b31d7660476c81cba1da1f6ff54e3"
 metafile = true
 
 [[files]]
-file = "mods/voxy-0.2.13-alpha.jar"
-hash = "e71e54dbbb034601ae6fad694502928764815f6ea06b6cb5bd4b46d31bce3828"
+file = "mods/voxy.pw.toml"
+hash = "b61cd98596790ca4f96d7430e64fac098c7106ab32fd7557b0297914458be61c"
+metafile = true
 
 [[files]]
 file = "mods/wakes.pw.toml"
@@ -839,4 +840,8 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "20da73e01616b22eef80bfba7faf5373289fb391a386b3e3cb1ec0f07e403970"
+hash = "f61f2688bc99f8d4c625841adb8a11fd27e0cf861bab1c969618c618d9868bbb"
+
+[[files]]
+file = "unsup.toml"
+hash = "536f3e949fd310d36de80cd7f464d05aa66d27122e660b38a9154add6f5b595a"
