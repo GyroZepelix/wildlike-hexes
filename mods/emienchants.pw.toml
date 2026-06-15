@@ -1,0 +1,13 @@
+name = "EMI Enchants"
+filename = "EMIEnchants-fabric-1.19.3-1.20.4-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/11hKNQb2/versions/ZP30bOOo/EMIEnchants-fabric-1.19.3-1.20.4-1.0.0.jar"
+hash-format = "sha512"
+hash = "026fc462b1d0adcb8926f6ffe31ce05747ab7e3bec9ff62969c2ca7ac48e4643cb288d55ff094040a0da9db9ee1af461a86213728c2dc450bc3cfe0992667fa4"
+
+[update]
+[update.modrinth]
+mod-id = "11hKNQb2"
+version = "ZP30bOOo"

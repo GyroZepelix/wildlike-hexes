@@ -1,0 +1,13 @@
+name = "Hex Spell Wheel"
+filename = "hex-spellwheel-fabric-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wrrWnqYi/versions/rgN5Bpzv/hex-spellwheel-fabric-1.1.1.jar"
+hash-format = "sha512"
+hash = "6e6d6a1a06726aff073c1daf75f6b00447bd2f6336927e08030f29d60d175356b6694d58f2916e1fff103756b3101be4a92cecef023dcd1cadd5567563fa00fa"
+
+[update]
+[update.modrinth]
+mod-id = "wrrWnqYi"
+version = "rgN5Bpzv"

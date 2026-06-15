@@ -1,0 +1,13 @@
+name = "PatPat [Mod & Plugin]"
+filename = "PatPat-1.2.3+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dw7LChq9/versions/gz6hr7RH/PatPat-1.2.3%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "09e10645f2e1c657383aa125c1e4e1aea12da18e50104177ae0f8d12a644787590e39d19286900b635d4a55c771a25d5f64658432fec4c12b28354a3d024b0d7"
+
+[update]
+[update.modrinth]
+mod-id = "dw7LChq9"
+version = "gz6hr7RH"

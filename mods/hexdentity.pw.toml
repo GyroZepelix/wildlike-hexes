@@ -1,0 +1,13 @@
+name = "Hexdentity"
+filename = "hexdentity-fabric-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C5XAUaYO/versions/N55upQd3/hexdentity-fabric-1.0.7.jar"
+hash-format = "sha512"
+hash = "b19f76f85db2ab999d4d382566f28b5133b34c498b6cee661c8167f255ea9bffe9e8cfb2730fff9fb8eac0d7a0a94ca2af7ef9f7942596f8831c5a5a7f850bee"
+
+[update]
+[update.modrinth]
+mod-id = "C5XAUaYO"
+version = "N55upQd3"

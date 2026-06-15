@@ -1,0 +1,13 @@
+name = "DynamicKeybinds"
+filename = "dynamickeybinds-fabric-1.20.1-0.1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cD0Pm8om/versions/yG5vtP16/dynamickeybinds-fabric-1.20.1-0.1.2.1.jar"
+hash-format = "sha512"
+hash = "9b4f09712b5e5d430dd78be228594799df0b684aa8cd59a72c7b37748a5b685f9d5beb0549e2c0b58ab061005c092118ad747acbcb96eec72eea82e5f5a9d968"
+
+[update]
+[update.modrinth]
+mod-id = "cD0Pm8om"
+version = "yG5vtP16"

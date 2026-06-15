@@ -1,0 +1,13 @@
+name = "Jade Addons (Fabric)"
+filename = "JadeAddons-1.20.1-Fabric-5.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fThnVRli/versions/rVVb4MNE/JadeAddons-1.20.1-Fabric-5.5.2.jar"
+hash-format = "sha512"
+hash = "418ae81ffe7d104707c20ef616f2a75f66daf9e2b7eb5d838b4053634d42719da24d9481954fc06d6882bb408acf857f8c53ff97cc7afd97bc2f5d22173d7094"
+
+[update]
+[update.modrinth]
+mod-id = "fThnVRli"
+version = "rVVb4MNE"

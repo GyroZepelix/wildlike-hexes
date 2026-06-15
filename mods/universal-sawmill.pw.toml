@@ -1,0 +1,13 @@
+name = "Sawmill"
+filename = "sawmill-1.20-1.4.10-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WRaRZdTd/versions/2ejbuUsp/sawmill-1.20-1.4.10-fabric.jar"
+hash-format = "sha512"
+hash = "71a2d2feb829c3fa0e8f69a61ad3cb535deb8b880cbd1fdb71ab7b7e06abf8f4b14f1efaedad5022a3c88c4c2246c0759b8298b266b5768b3b88a39a87edb403"
+
+[update]
+[update.modrinth]
+mod-id = "WRaRZdTd"
+version = "2ejbuUsp"

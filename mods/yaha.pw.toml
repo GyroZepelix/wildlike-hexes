@@ -1,0 +1,13 @@
+name = "Yet Another Hex Addon"
+filename = "YAHA-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bqci4HwY/versions/rHES4NIB/YAHA-0.3.1.jar"
+hash-format = "sha512"
+hash = "1d83a73d8c97e2ae078f46ac31a81f9d861b1afb7f8597c13d7bbfd637f456e73a9ec4e772cddb2c0422ed9789d08ad38e40b48641319c2663c117a7ed580ec0"
+
+[update]
+[update.modrinth]
+mod-id = "Bqci4HwY"
+version = "rHES4NIB"

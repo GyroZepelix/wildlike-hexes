@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns Pillager Outpost Overhaul"
+filename = "dungeons-and-taverns-pillager-outpost-rework-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QIt10I7z/versions/rXFz7ljL/dungeons-and-taverns-pillager-outpost-rework-1.1.jar"
+hash-format = "sha512"
+hash = "7005bf564cb77a56a0286dad93de69fcca9fa442946020a80de5df2f7c3e7eb637ca819ae7acce334dc1b29746b5c7cef59c6528992d806ef17c7b2e49fca102"
+
+[update]
+[update.modrinth]
+mod-id = "QIt10I7z"
+version = "rXFz7ljL"

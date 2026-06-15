@@ -1,0 +1,13 @@
+name = "HexIntent"
+filename = "manifestation-2.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4G64Rm66/versions/XpLfmQO7/manifestation-2.1.7.jar"
+hash-format = "sha512"
+hash = "ddb25c0e5d320cfb6da7f9d270055269a98a95da597abef4b3f9f92f9946a28d904a80c3470204b26350d558d41d0d0e25fd6f255cdd1d14925c5bb468428120"
+
+[update]
+[update.modrinth]
+mod-id = "4G64Rm66"
+version = "XpLfmQO7"

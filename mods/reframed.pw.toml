@@ -1,0 +1,13 @@
+name = "ReFramed"
+filename = "ReFramed-1.6.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jCpoCBpn/versions/qUajV4uc/ReFramed-1.6.6.jar"
+hash-format = "sha512"
+hash = "358d81a47258e1e2b6c0918803b5b2c3d4b334d6f23b50b5fc5b3cb56bbcd6b9616f22ad226b4df0545ad9d0d722bc220e7d610f20813a8e0d9111b63f57ccaa"
+
+[update]
+[update.modrinth]
+mod-id = "jCpoCBpn"
+version = "qUajV4uc"

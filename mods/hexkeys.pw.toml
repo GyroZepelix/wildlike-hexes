@@ -1,0 +1,13 @@
+name = "Hex Keys"
+filename = "hexkeys-fabric-1.20.1-0.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OuSEOOSY/versions/X2nFe4sf/hexkeys-fabric-1.20.1-0.1.6.jar"
+hash-format = "sha512"
+hash = "a671612083fa5575fbaf8fcbadad7e9884162890d4e218d74ea71150deba56e751678bfafd4d91999f6fd91cae88236bcf926159b3efda730ff7d61671785c88"
+
+[update]
+[update.modrinth]
+mod-id = "OuSEOOSY"
+version = "X2nFe4sf"

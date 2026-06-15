@@ -1,0 +1,13 @@
+name = "Punchy!"
+filename = "punchy-2.5.5-fabric-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8aoMKplv/versions/X51mGjgi/punchy-2.5.5-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "01fe4895c41c965531f718f968e9045b3ed1904d585e804267a974114423302c98af3f9adb4f5bbd574f4b22ab99ceddd719d6788d8c166cb7b2bc190fe0a16b"
+
+[update]
+[update.modrinth]
+mod-id = "8aoMKplv"
+version = "X51mGjgi"

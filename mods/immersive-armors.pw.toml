@@ -1,0 +1,13 @@
+name = "Immersive Armors"
+filename = "immersive_armors-1.7.2+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eE2Db4YU/versions/mGE2GYeN/immersive_armors-1.7.2%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "c8286afa580d8f04b74551ceaae8409bc51478475f5846876b1be886223fe552d178c6f0e6df52e5099affd9ff2c904e07d50e12d119032ea88af49bccd046dc"
+
+[update]
+[update.modrinth]
+mod-id = "eE2Db4YU"
+version = "mGE2GYeN"

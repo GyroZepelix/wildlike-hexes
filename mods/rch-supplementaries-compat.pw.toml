@@ -1,0 +1,13 @@
+name = "RightClickHarvest Supplementaries Compat"
+filename = "rch-supplementaries-compat-fabric-1.0.1+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1UdKJCjq/versions/k9H4azrx/rch-supplementaries-compat-fabric-1.0.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "00182e9d515546de720217e6ec4a3b59138ebe0f4f24816d64a430c278b993dfa29ae730ce6355929255791193a2ab18c7be286f8fee6b97bfd9409b72a555f3"
+
+[update]
+[update.modrinth]
+mod-id = "1UdKJCjq"
+version = "k9H4azrx"

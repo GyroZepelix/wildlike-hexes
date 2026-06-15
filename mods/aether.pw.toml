@@ -1,0 +1,13 @@
+name = "The Aether"
+filename = "aether-1.20.1-1.5.2-beta.9-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YhmgMVyu/versions/d0gCQ3in/aether-1.20.1-1.5.2-beta.9-fabric.jar"
+hash-format = "sha512"
+hash = "8cc896d25ed7d8ed77f9260fb66fdbffa2d3cb6db4bc06fac2c9f4f9f3609b8c7f3cbbc06b5c0e9dfa3e14ed36595a185b3717d69670124d254c55d38cf06b6b"
+
+[update]
+[update.modrinth]
+mod-id = "YhmgMVyu"
+version = "d0gCQ3in"
