@@ -1,0 +1,8 @@
+spec/
+scripts/
+*.md
+*.mrpack
+*.zip
+.git/
+.gitignore
+.packwizignore

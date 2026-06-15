@@ -838,9 +838,5 @@ hash = "cf708ff146f867df2153b3f27482e80769c7032b10037e4a752d31fbb5668eaf"
 metafile = true
 
 [[files]]
-file = "scripts/import-modrinth-index-to-packwiz.py"
-hash = "8471c0a9b6107f902ffed70dbd2c273770cd95deb716470766e8657c0ff6dd91"
-
-[[files]]
 file = "unsup.ini"
 hash = "20da73e01616b22eef80bfba7faf5373289fb391a386b3e3cb1ec0f07e403970"
