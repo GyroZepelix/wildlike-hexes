@@ -842,9 +842,5 @@ file = "scripts/import-modrinth-index-to-packwiz.py"
 hash = "8471c0a9b6107f902ffed70dbd2c273770cd95deb716470766e8657c0ff6dd91"
 
 [[files]]
-file = "spec/260615-1456-packwiz-modrinth-index-import-script.md"
-hash = "6719c62c9932726a5df31a7cb9419daf7add7c4f0b98958b4ec5bb58f0ad2c37"
-
-[[files]]
 file = "unsup.ini"
 hash = "20da73e01616b22eef80bfba7faf5373289fb391a386b3e3cb1ec0f07e403970"
