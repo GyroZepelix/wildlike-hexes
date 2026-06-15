@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "modrinth.index.json"
-hash = "98e6dfbabf7cd285345211657cf67edcb5a24d36b1710e2281441002ed253338"
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "b8dcd81b72048d30a1a7182dd6163c3cbd9658e22fa84e9dd2387164a649dd01"
 metafile = true
@@ -842,33 +838,13 @@ hash = "cf708ff146f867df2153b3f27482e80769c7032b10037e4a752d31fbb5668eaf"
 metafile = true
 
 [[files]]
-file = "overrides/mods/hexical-2.0.0-e0d7ef9.jar"
-hash = "1fc2f62878be4f6fa4765e20d186986f4948670e1a04aaabbf8844a4d03b4080"
-
-[[files]]
-file = "overrides/mods/identity-2.7.1-1.20.1-fabric.jar"
-hash = "0c6e8c077bb4a764aa6fde7b9d8a9ac3640f222dff509549f6de896b7d973fc4"
-
-[[files]]
-file = "overrides/mods/oneironaut-fabric-1.20.1-0.5.0.jar"
-hash = "69f760622b7b66762e37c9280c269bf1859bd7d6308eefd75ed1a9e42c7de54c"
-
-[[files]]
-file = "overrides/mods/voxy-0.2.13-alpha.jar"
-hash = "e71e54dbbb034601ae6fad694502928764815f6ea06b6cb5bd4b46d31bce3828"
-
-[[files]]
-file = "overrides/options.txt"
-hash = "6733022df8251ca79e9c0d08d5e4d5bc9ace955a7526878f462d4be3e1cce7dd"
-
-[[files]]
-file = "scripts/__pycache__/import-modrinth-index-to-packwiz.cpython-314.pyc"
-hash = "76e9e7a6dfca3979408f218c49f23c9604dc3a157de253f2132db1baf0c52754"
-
-[[files]]
 file = "scripts/import-modrinth-index-to-packwiz.py"
 hash = "8471c0a9b6107f902ffed70dbd2c273770cd95deb716470766e8657c0ff6dd91"
 
 [[files]]
 file = "spec/260615-1456-packwiz-modrinth-index-import-script.md"
 hash = "6719c62c9932726a5df31a7cb9419daf7add7c4f0b98958b4ec5bb58f0ad2c37"
+
+[[files]]
+file = "unsup.ini"
+hash = "20da73e01616b22eef80bfba7faf5373289fb391a386b3e3cb1ec0f07e403970"
