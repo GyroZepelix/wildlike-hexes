@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/resourcepackoverrides.json"
-hash = "550c45cae0e75cba8c36110c763348b11a44f488124aab02df0483296a370f0c"
+file = "config/global_packs.toml"
+hash = "b8af7503c33d66ae4489b16041560958b8c9043fde3528f4f314eee8e92dfddf"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -292,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "3ba1f8150b574b10a258a4af832ed6fa1817b8ec2a2401fe29b303238778c1c6"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "d5299b6a7d50355b681a4cff6346218bf95e94280593a08d45999454645fce2a"
 metafile = true
 
 [[files]]
@@ -620,11 +625,6 @@ metafile = true
 [[files]]
 file = "mods/reframed.pw.toml"
 hash = "9851cdbbcb519f6b9f52ae673691581391a3eb6de3c2f9033800fb2bcdcd1307"
-metafile = true
-
-[[files]]
-file = "mods/resource-pack-overrides.pw.toml"
-hash = "1224221ef8ec2447a9723b25dc6a92dc0ecea87d90a13754e4895abd3a4c5a8c"
 metafile = true
 
 [[files]]
