@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/global_packs.toml"
-hash = "b8af7503c33d66ae4489b16041560958b8c9043fde3528f4f314eee8e92dfddf"
+hash = "2ecae00ccb4d625612896f2c36c5198725a1ca6f1a424dba0351412d5b3ac4dd"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -845,11 +845,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/assorted-allays-x-fresh-animations.pw.toml"
 hash = "f549fbf002d7af55a5d00dc19a96f30ae0fe8e8d0f8f1510fa4c9220871ad269"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-icons.pw.toml"
-hash = "4fa9f887385dfbb3a5d1c15e28f23e8213d487f0c78e50bd648ad78b8c9c0a9d"
 metafile = true
 
 [[files]]
