@@ -170,11 +170,6 @@ hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
 metafile = true
 
 [[files]]
-file = "mods/effective.pw.toml"
-hash = "77db2a79ccab8ea16987b981f0de7d6442f716217b83ebe9669f84006b07daf1"
-metafile = true
-
-[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "aef45a1afd270204f96f05142cd1013146e87428e4ffaef3f54148d7f1836916"
 metafile = true
