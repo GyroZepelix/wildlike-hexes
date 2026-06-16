@@ -115,11 +115,6 @@ hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
-file = "mods/couplings.pw.toml"
-hash = "963b5ff9b13cd06fc06f04a6941abc49bc778634e705f39ae47e5a9f3d59b97d"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "e1d3ff09f3124154bf3cdd83783ea672aee7bdb6edda076574303a6bc2d4b512"
 metafile = true
