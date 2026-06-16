@@ -5,6 +5,10 @@ file = "config/global_packs.toml"
 hash = "2ecae00ccb4d625612896f2c36c5198725a1ca6f1a424dba0351412d5b3ac4dd"
 
 [[files]]
+file = "config/identity.json5"
+hash = "5bda26d627f03632d086a93e0a77220e5da1c1b343fbb71ecb81bfe0662c3a92"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "b8dcd81b72048d30a1a7182dd6163c3cbd9658e22fa84e9dd2387164a649dd01"
 metafile = true
