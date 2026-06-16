@@ -1,0 +1,13 @@
+name = "Rocking Boats (Optifine/CEM)"
+filename = "Rocking Boats.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yvtFvpUE/versions/2eLdiz4S/Rocking%20Boats.zip"
+hash-format = "sha512"
+hash = "c1fdeb8e0e1eefc6789ed998c5794ec7cb720dd3f00bd4e5acc8e305fd33e453d735189b62b452410a491003eb3feec92ff20ff2cabbe1b9352ad05294061146"
+
+[update]
+[update.modrinth]
+mod-id = "yvtFvpUE"
+version = "2eLdiz4S"

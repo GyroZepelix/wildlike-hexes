@@ -1,0 +1,13 @@
+name = "AL's Zombies Revamped"
+filename = "AL's Zombies Revamped 1.7.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/upxmhLsL/versions/sN7ENar9/AL%27s%20Zombies%20Revamped%201.7.1.zip"
+hash-format = "sha512"
+hash = "2a7eabf39a337d1f6e5bd4da07b6d59c85d9a631b1df5873736ee59851b031066165f7c037d5f6d0bc55922ef54a2c72078a4a87e0ae302810daafa80b384d69"
+
+[update]
+[update.modrinth]
+mod-id = "upxmhLsL"
+version = "sN7ENar9"

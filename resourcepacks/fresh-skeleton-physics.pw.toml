@@ -1,0 +1,13 @@
+name = "Fresh Skeleton Physics"
+filename = "Fresh Skeleton Physics.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XZhhYcY0/versions/wHqKIDhw/Fresh%20Skeleton%20Physics.zip"
+hash-format = "sha512"
+hash = "6819ad5442c9be5fa1198714160f1cd6d41240bb47e9799f983ebb5fcd60732309149481924a0dee722d106430c8d07b440f56f2730bc2f19eda06f9b1793e8a"
+
+[update]
+[update.modrinth]
+mod-id = "XZhhYcY0"
+version = "wHqKIDhw"

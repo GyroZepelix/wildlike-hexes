@@ -360,11 +360,6 @@ hash = "62b3bb27578fafd17c6dba935eac153a17f9d267f7d7be718ed8844e9fb411ac"
 metafile = true
 
 [[files]]
-file = "mods/hexparse.pw.toml"
-hash = "35d3ca6f9e4ebafe555b6488c744acade03d3e7d3b19bbcf994b4429f8600246"
-metafile = true
-
-[[files]]
 file = "mods/hexpigmentplus.pw.toml"
 hash = "a1c7b5707e5faf360a39c96d2dc436680b6e114f907c5fca5cf1d32db4ff7867"
 metafile = true
@@ -427,11 +422,6 @@ metafile = true
 [[files]]
 file = "mods/inline.pw.toml"
 hash = "77705ea58913cad0baa1964f8ba1a37b2fdf640b955a70f4bc1ad985cdd14a5f"
-metafile = true
-
-[[files]]
-file = "mods/inventory-particles.pw.toml"
-hash = "dbfa593d3a8a6ccf72f0a956c9598f350a39d3ed47c2b21c2e33ad0cfba13482"
 metafile = true
 
 [[files]]
@@ -537,11 +527,6 @@ metafile = true
 [[files]]
 file = "mods/moreiotas.pw.toml"
 hash = "6757363eeff33967a7beb9782d833cd9f23486933a88373e576a3856fbbaf1bd"
-metafile = true
-
-[[files]]
-file = "mods/mossylib.pw.toml"
-hash = "ce0cf82594bd4a057b5f89c65a80bda16a09712e85481fc6077979c210ef1296"
 metafile = true
 
 [[files]]
@@ -836,6 +821,106 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
 hash = "cf708ff146f867df2153b3f27482e80769c7032b10037e4a752d31fbb5668eaf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-skeletons-revamped-classic-faces.pw.toml"
+hash = "fd660051e6dcbc642332f04aaf4b6321bc364fad22323eb7731370ca81311cb1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-skeletons-revamped-x-fresh-animations.pw.toml"
+hash = "3f2ab0282b07f1831a8a4261b24ac10ca59c7daa314a82c1f7dc83ec3fa56bd1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-spiders-revamped-x-fresh-animations.pw.toml"
+hash = "da0bc9ddd67d630dc0ce8f4e807fab624b407e90a94a9a573bf7bd6e9e602118"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-spiders-revamped.pw.toml"
+hash = "d4939f96fe8d7c9a7beac79220f7f712b4960bfb54447754b0df73911f586c84"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-zombies-revamped-x-fresh-animations.pw.toml"
+hash = "61c9cae79a6dba9979640207f6eb792289c8968d2304692ec69df8d9f6a3c123"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-zombies-revamped.pw.toml"
+hash = "b69c4c6b0a42f1079f9434174e6daae5dd79301bf88fb0a78920bced72a650cf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/assorted-allays-x-fresh-animations.pw.toml"
+hash = "f549fbf002d7af55a5d00dc19a96f30ae0fe8e8d0f8f1510fa4c9220871ad269"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-icons.pw.toml"
+hash = "4fa9f887385dfbb3a5d1c15e28f23e8213d487f0c78e50bd648ad78b8c9c0a9d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/brush-and-juice.pw.toml"
+hash = "596d4292b7e540fed65480cb4d6775e70bd67866b85944b6177430d977312212"
+metafile = true
+
+[[files]]
+file = "resourcepacks/elysia-presents-lootr.pw.toml"
+hash = "b4f13351944b86590327f566ad53ae54fe4fd8a054acb3a54ac763427a08e64d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fa-player-extension.pw.toml"
+hash = "2e1a6866e4366cebe200dcf71ab52923b7653f76dc48741b93411ee3bf77372a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "a609bfde1f92ebb5c5462a9a7aa0464888b5bdb271392c81787ff3e27239ce4a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-flower-pots-compats.pw.toml"
+hash = "c74cede9fd789674e5c6e99974b8bd1d4931084425d157ea2466546dfc870f9e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-flower-pots.pw.toml"
+hash = "b7bced38e6ab7ab46d56c420ae7bbcb5e8d69b2857f952ee9c749b07ece0494e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-skeleton-physics.pw.toml"
+hash = "266bf24de32826086ef7df333e07441eefe87777e8112a5eb954702d2e9a59e0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rocking-boats.pw.toml"
+hash = "f63b1fbaa1559a2349f0ad615a6ee2806c99281977bc7eae5f42e935cc14adde"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tall-wheat.pw.toml"
+hash = "774c9c05ed8c7453e215281b4d34505363440f0b328b6fb321e23a57b8714ad3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tender-dragon.pw.toml"
+hash = "b7cc9ea96a97e58c5d916d954ffb86ca1cb2f80f97147639f5401c009d9ecc55"
 metafile = true
 
 [[files]]

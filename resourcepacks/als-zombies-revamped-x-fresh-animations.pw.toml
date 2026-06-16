@@ -1,0 +1,13 @@
+name = "AL's Zombies Revamped x Fresh Animations"
+filename = "AL's Zombies Revamped+FA 1.4.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iKIcN9kc/versions/E9lqUdLZ/AL%27s%20Zombies%20Revamped%2BFA%201.4.1.zip"
+hash-format = "sha512"
+hash = "c193a68824ade8f3ccb43b8901db099db57954209a3fc760f9a9438c3b89ac3d51239a17a947fb6d989a1dea3b553fc26e0d6de14dbb0b336a2564eedb210d00"
+
+[update]
+[update.modrinth]
+mod-id = "iKIcN9kc"
+version = "E9lqUdLZ"

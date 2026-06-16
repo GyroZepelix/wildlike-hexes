@@ -1,0 +1,13 @@
+name = "AL's Spiders Revamped x Fresh Animations"
+filename = "AL's Spiders Revamped+FA 1.5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rsDpOKO7/versions/M9AxMZzJ/AL%27s%20Spiders%20Revamped%2BFA%201.5.zip"
+hash-format = "sha512"
+hash = "720b4dee1f726ab3ee395656aada43bfe219d6152c8c107ff933345fc09f6b1571fe5685b2c1781c4f11fc3187bef80197e5a764f91c54925fcd7ba2e4ae43d3"
+
+[update]
+[update.modrinth]
+mod-id = "rsDpOKO7"
+version = "M9AxMZzJ"

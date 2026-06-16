@@ -1,0 +1,13 @@
+name = "Tender Dragon"
+filename = "Tender Dragon v1.6.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gSsi9zDt/versions/zbzs0FPd/Tender%20Dragon%20v1.6.zip"
+hash-format = "sha512"
+hash = "dd0c7211cd042eb28ff4173cd61b41f4b69a74cd6ce710fd75c05cc91c205b809f43289f544aa31a04d18efc2d9a3b9e2b96070a096a35349bcee7c10f868f04"
+
+[update]
+[update.modrinth]
+mod-id = "gSsi9zDt"
+version = "zbzs0FPd"

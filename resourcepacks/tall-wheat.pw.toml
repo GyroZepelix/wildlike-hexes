@@ -1,0 +1,13 @@
+name = "Tall Wheat"
+filename = "Wheat.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FxkNur2C/versions/IX35Ax9W/Wheat.zip"
+hash-format = "sha512"
+hash = "19b70dabc475991286d720f1bd595399092d3cff66db3db2fcd9f7506d619e6451cb5d3773ea836f76abffca89569b4613df73c40329e5c02d3a9a4640ef5aff"
+
+[update]
+[update.modrinth]
+mod-id = "FxkNur2C"
+version = "IX35Ax9W"

@@ -1,0 +1,13 @@
+name = "Assorted Allays x Fresh Animations"
+filename = "Assorted Allays x FA - V.11.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/36ri01j6/versions/alY6QrPd/Assorted%20Allays%20x%20FA%20-%20V.11.0.zip"
+hash-format = "sha512"
+hash = "2e366d362a79e1dfdacccd068090b5bf61cbb4fbab9edfb9305cbcb2cfbf0de3d882e401dd7588064fea2ac9f421602b0a710e1b0aae7aab7289105857565f0c"
+
+[update]
+[update.modrinth]
+mod-id = "36ri01j6"
+version = "alY6QrPd"

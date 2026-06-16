@@ -1,0 +1,13 @@
+name = "Elysia Presents: Lootr"
+filename = "elysiapresents_lootr.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/i7bc1xcI/versions/7cuaMDzL/elysiapresents_lootr.zip"
+hash-format = "sha512"
+hash = "ed3f916ca843045984b67e43cc1d6d708e3319dbfc31e30ebf368bdef94c8ae2241933b02ba3a0de4075b744f28ca15e0eb4e3ce0b757d9d5ceb24294c016555"
+
+[update]
+[update.modrinth]
+mod-id = "i7bc1xcI"
+version = "7cuaMDzL"
