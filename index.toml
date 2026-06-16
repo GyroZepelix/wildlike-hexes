@@ -539,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturalist.pw.toml"
-hash = "4716b5f3338b4ea22fb4615956b94aaf2c7fff7869d1fa898ffd1fa710b2bc7e"
+hash = "cdc3b40078ef395c5b4863a74dd58f6c3cd1a4f5eeea7e3782318ef28d99438c"
 metafile = true
 
 [[files]]
