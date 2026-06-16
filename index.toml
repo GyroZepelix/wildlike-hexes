@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "550c45cae0e75cba8c36110c763348b11a44f488124aab02df0483296a370f0c"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "b8dcd81b72048d30a1a7182dd6163c3cbd9658e22fa84e9dd2387164a649dd01"
 metafile = true
@@ -624,6 +628,11 @@ hash = "9851cdbbcb519f6b9f52ae673691581391a3eb6de3c2f9033800fb2bcdcd1307"
 metafile = true
 
 [[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "1224221ef8ec2447a9723b25dc6a92dc0ecea87d90a13754e4895abd3a4c5a8c"
+metafile = true
+
+[[files]]
 file = "mods/ribbits.pw.toml"
 hash = "ecb1a01ea5e3a971a18633d357c6f165cc05e77ebfd5dfa4f911c3452e0189a3"
 metafile = true
@@ -824,11 +833,6 @@ hash = "cf708ff146f867df2153b3f27482e80769c7032b10037e4a752d31fbb5668eaf"
 metafile = true
 
 [[files]]
-file = "resourcepacks/als-skeletons-revamped-classic-faces.pw.toml"
-hash = "fd660051e6dcbc642332f04aaf4b6321bc364fad22323eb7731370ca81311cb1"
-metafile = true
-
-[[files]]
 file = "resourcepacks/als-skeletons-revamped-x-fresh-animations.pw.toml"
 hash = "3f2ab0282b07f1831a8a4261b24ac10ca59c7daa314a82c1f7dc83ec3fa56bd1"
 metafile = true
@@ -839,18 +843,8 @@ hash = "da0bc9ddd67d630dc0ce8f4e807fab624b407e90a94a9a573bf7bd6e9e602118"
 metafile = true
 
 [[files]]
-file = "resourcepacks/als-spiders-revamped.pw.toml"
-hash = "d4939f96fe8d7c9a7beac79220f7f712b4960bfb54447754b0df73911f586c84"
-metafile = true
-
-[[files]]
 file = "resourcepacks/als-zombies-revamped-x-fresh-animations.pw.toml"
 hash = "61c9cae79a6dba9979640207f6eb792289c8968d2304692ec69df8d9f6a3c123"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-zombies-revamped.pw.toml"
-hash = "b69c4c6b0a42f1079f9434174e6daae5dd79301bf88fb0a78920bced72a650cf"
 metafile = true
 
 [[files]]
