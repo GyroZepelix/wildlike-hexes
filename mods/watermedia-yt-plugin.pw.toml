@@ -1,6 +1,6 @@
 name = "WATERMeDIA: Youtube Extension"
 filename = "watermedia_youtube_plugin-2.1.2.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/P0w3IrnX/versions/rDtJujm2/watermedia_youtube_plugin-2.1.2.jar"

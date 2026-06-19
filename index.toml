@@ -52,7 +52,7 @@ hash = "050788cbd2fe1c2711dc6e9845659c9ac865e6fe3ad2b4b897b584d42800af86"
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
+hash = "db0cf0e8fa916c1f982e0e3b84f3bed423b7f68e24446508e6dd4374d578fdab"
 metafile = true
 
 [[files]]
@@ -830,12 +830,12 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "4faf890cddc7addc968e262b4bc55ca47f59e482fa5c23e780def45d099f84e4"
+hash = "8e34446a315eaeca8acff6be2af21a8532586e0123868ea3359eaf2e63d23d4e"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
+hash = "ead92f49287323cc9ede408a50cd7e39f4b39046f59906a810e111dfae358419"
 metafile = true
 
 [[files]]
