@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/galosphere.pw.toml"
-hash = "948bc4c9287566977501eb462d6ef40e3c355dc167e9e0fd93517c127a722c72"
+hash = "cf23e859d26ae2a6535a27e14e9c7a25d8e6330208b2c48192a1f05de9dd2a0e"
 metafile = true
 
 [[files]]
@@ -338,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/gravity-api-fork.pw.toml"
 hash = "4744eec2487b3cc307ceaa93d1a1c021d06d3734da513437558701a737797e85"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "f6629a3c5e023a96cb5d78d66e93b47245996c46a079921b3f6a6094209dc1b0"
 metafile = true
 
 [[files]]
@@ -649,13 +654,13 @@ hash = "a1eff7b33a54586b6989c7bfd89992f9d315f1c656b7596649d9af7017c6af7b"
 metafile = true
 
 [[files]]
-file = "mods/rch-supplementaries-compat.pw.toml"
-hash = "698844a6f8c3fb60697ea169f19a6757d5a94b65dbaa94dc6555d8a84f25d420"
+file = "mods/quick-skin.pw.toml"
+hash = "b4c3ade8ee945bf9674f74750708762ffe95cec6dea469e8681cc767abd5ad8b"
 metafile = true
 
 [[files]]
-file = "mods/redeco.pw.toml"
-hash = "bcae9313ec18f1ff847bbb63d182100cb985d1bed7f120b88061bfda39392b6a"
+file = "mods/rch-supplementaries-compat.pw.toml"
+hash = "698844a6f8c3fb60697ea169f19a6757d5a94b65dbaa94dc6555d8a84f25d420"
 metafile = true
 
 [[files]]

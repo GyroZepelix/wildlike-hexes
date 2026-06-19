@@ -1,13 +1,13 @@
 name = "Galosphere"
-filename = "Galosphere-1.20.1-1.5.1-Fabric.jar"
+filename = "Galosphere-1.20.1-1.5.0-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Kn7xyQ1v/versions/KUrFwqBy/Galosphere-1.20.1-1.5.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/Kn7xyQ1v/versions/6U3q5FcH/Galosphere-1.20.1-1.5.0-Fabric.jar"
 hash-format = "sha512"
-hash = "506061e5cd84ec6c70b71dc38f93ce72f96f090c52c0a5110f6b697f2e36b20337b00e5bde7bb30d9a686c379e40d84a60540695f6f5b5243c9a516f9dd60c0a"
+hash = "ab64917b86c4b6547535c4fefbddb52bf78e593728e3e5307944874e2570296ddc074367d2b00a18cfa6d8aa11e6f47712ce83a669a237619ba8ec2ba47e9e66"
 
 [update]
 [update.modrinth]
 mod-id = "Kn7xyQ1v"
-version = "KUrFwqBy"
+version = "6U3q5FcH"

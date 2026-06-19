@@ -1,0 +1,13 @@
+name = "Quick Skin"
+filename = "Quick Skin - Fabric - 1.20.1-2.6.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zAIE84Ch/versions/17Y02Cq3/Quick%20Skin%20-%20Fabric%20-%201.20.1-2.6.2.4.jar"
+hash-format = "sha512"
+hash = "85eb1b4462d22329e0a7c8533553c11c92af84c2734a5d31f1e3e19bd4e069d549c06a3dd9ba01ea54b6076be8397c9d35457fe5eeadefb17045d7250513546f"
+
+[update]
+[update.modrinth]
+mod-id = "zAIE84Ch"
+version = "17Y02Cq3"
