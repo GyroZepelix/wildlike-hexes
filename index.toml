@@ -599,10 +599,6 @@ hash = "d536c01087ca79d02b66600eb379c925bf59b393655e22ebf71ef4374cc50959"
 metafile = true
 
 [[files]]
-file = "mods/overevaluate-1.0.0.jar"
-hash = "9ce85702647b94bebc75b85baf6c7856fe3000bb47cd1097c5d972d2412c0624"
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
