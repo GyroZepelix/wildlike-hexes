@@ -727,11 +727,6 @@ hash = "67fc732c5360d30b216d01fffd0dbc7fc6ce2459855a09f6550100723408fe6f"
 metafile = true
 
 [[files]]
-file = "mods/toms-storage.pw.toml"
-hash = "c57e5187ae4382be6c19e596c8a3f4a7a2b4d566c16c6fc8ad8a0629dc9454d1"
-metafile = true
-
-[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
@@ -908,8 +903,8 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "014af94b5eb2e7f3db687e9d56099e6bb0c042580572611d04fc06977e943cee"
+hash = "c7bda7a27bf9b7bce52aff678a69a10e7e69ec3806eeb0b7d6e5513ffdf5bb6f"
 
 [[files]]
 file = "unsup.toml"
-hash = "536f3e949fd310d36de80cd7f464d05aa66d27122e660b38a9154add6f5b595a"
+hash = "e868e6ed401133e7db644b7db509d7aee91dd7b0cb433056726486006b102031"
