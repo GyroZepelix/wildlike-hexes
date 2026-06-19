@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/global_packs.toml"
-hash = "2ecae00ccb4d625612896f2c36c5198725a1ca6f1a424dba0351412d5b3ac4dd"
+file = "config/defaultoptions/keybindings.txt"
+hash = "508b892ae74132a8f199516cb8566b4e4e93242ef45dabfe7e00a26f09ec4738"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "c9ef450a40ca1e8289932dc4f94ce90795579283d762817e8b33d4078e870bc2"
 
 [[files]]
 file = "config/identity.json5"
 hash = "5bda26d627f03632d086a93e0a77220e5da1c1b343fbb71ecb81bfe0662c3a92"
+
+[[files]]
+file = "config/patpat/ignore_mob_list.txt"
+hash = "81fad491a6b56c552ae119639edf98fcda13fdc33bfec1e69fa93b2e46b672c6"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -311,11 +319,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "3ba1f8150b574b10a258a4af832ed6fa1817b8ec2a2401fe29b303238778c1c6"
-metafile = true
-
-[[files]]
-file = "mods/globalpacks.pw.toml"
-hash = "d5299b6a7d50355b681a4cff6346218bf95e94280593a08d45999454645fce2a"
 metafile = true
 
 [[files]]
@@ -943,8 +946,8 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "c7bda7a27bf9b7bce52aff678a69a10e7e69ec3806eeb0b7d6e5513ffdf5bb6f"
+hash = "abc5fc6b855cbfc327c59b5c4846e1b6ed9fa1623585349c8d1a6f11055a355c"
 
 [[files]]
 file = "unsup.toml"
-hash = "e868e6ed401133e7db644b7db509d7aee91dd7b0cb433056726486006b102031"
+hash = "3ac6c800e66e8a6ea3f2b55e2767e1cb47b7a9e1d6ab47ad489348445d5aa93c"

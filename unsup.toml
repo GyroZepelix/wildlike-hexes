@@ -16,12 +16,6 @@ description = "Leave this unchecked to keep Punchy installed. Select it to disab
 side = "client"
 choices = ["disable_punchy_off", "disable_punchy_on"]
 
-[flavor_groups.disable_fresh_animations]
-name = "Disable Fresh Animations"
-description = "Leave this unchecked to keep Global Packs installed for Fresh Animations resource pack support. Select it for a more vanilla-like animation experience."
-side = "client"
-choices = ["disable_fresh_animations_off", "disable_fresh_animations_on"]
-
 [metafile.iris]
 flavors = "disable_shaders_off"
 
@@ -30,6 +24,3 @@ flavors = "disable_high_render_off"
 
 [metafile.punchy-fpa]
 flavors = "disable_punchy_off"
-
-[metafile.globalpacks]
-flavors = "disable_fresh_animations_off"
