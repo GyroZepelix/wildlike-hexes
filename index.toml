@@ -142,6 +142,11 @@ hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "cb5570d39549f1cb1e04eccd7ac97d879130fa103c2776b5f6fc5d5435271b19"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "e1d3ff09f3124154bf3cdd83783ea672aee7bdb6edda076574303a6bc2d4b512"
 metafile = true
@@ -289,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "e09385ac1a1c0900b8fa619290eb0f0539949ebbc59f7604a7699485784ccc85"
+metafile = true
+
+[[files]]
+file = "mods/faux-custom-entity-data.pw.toml"
+hash = "00f2e8c9f900b119fc5931bce91d7c00845a8e494db8910c3a4e7d69bde2bc75"
 metafile = true
 
 [[files]]
@@ -943,6 +953,14 @@ metafile = true
 file = "resourcepacks/tender-dragon.pw.toml"
 hash = "b7cc9ea96a97e58c5d916d954ffb86ca1cb2f80f97147639f5401c009d9ecc55"
 metafile = true
+
+[[files]]
+file = "scripts/recipes/disable_resolute_ivy.zs"
+hash = "f8e6262b290a9ccb193a954b29f0094343238aa5bee2648c12286dd1cda0380d"
+
+[[files]]
+file = "scripts/tags/everblacklist.zs"
+hash = "e106094efbc1bf08e0aab59ac8a3939cd898b7b18d8930751c6fdebe022469be"
 
 [[files]]
 file = "unsup.ini"

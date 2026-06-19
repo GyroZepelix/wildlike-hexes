@@ -1,5 +1,5 @@
 spec/
-scripts/
+scripts/import-modrinth-index-to-packwiz.py
 mods/voxy-0.2.13-alpha.jar
 *.md
 *.mrpack
