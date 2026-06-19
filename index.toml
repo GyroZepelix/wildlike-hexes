@@ -964,7 +964,7 @@ metafile = true
 
 [[files]]
 file = "scripts/recipes/disable_resolute_ivy.zs"
-hash = "f8e6262b290a9ccb193a954b29f0094343238aa5bee2648c12286dd1cda0380d"
+hash = "4e35c8f4d90c1148eefe9344f56d1c96b50a84c8320d58f915e3d83f58f8f998"
 
 [[files]]
 file = "scripts/tags/everblacklist.zs"
