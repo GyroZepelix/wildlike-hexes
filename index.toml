@@ -47,6 +47,10 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/atelier_of_glamour-1.0.0.jar"
+hash = "050788cbd2fe1c2711dc6e9845659c9ac865e6fe3ad2b4b897b584d42800af86"
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
 metafile = true
@@ -593,6 +597,10 @@ hash = "69f760622b7b66762e37c9280c269bf1859bd7d6308eefd75ed1a9e42c7de54c"
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "d536c01087ca79d02b66600eb379c925bf59b393655e22ebf71ef4374cc50959"
 metafile = true
+
+[[files]]
+file = "mods/overevaluate-1.0.0.jar"
+hash = "9ce85702647b94bebc75b85baf6c7856fe3000bb47cd1097c5d972d2412c0624"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
