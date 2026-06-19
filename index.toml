@@ -49,6 +49,11 @@ hash = "b8c29dac6fb7c1cf18ca53b7a96c6c4854307999b77a751e803bdd9650a125e0"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "30eff8901d5955ab62196e335926047f6c00278fd95eb04b4e4b7122a8c31f15"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "94e366451c3c4c9849642b90d1147799fe9641dce1ffb9a8321281561191548f"
 metafile = true
@@ -69,6 +74,11 @@ hash = "3dfa563019be5b2c032fce29df5a1c2b68fba0f35990458fdb676df4c744fc36"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin-fabric.pw.toml"
+hash = "60cecb26aee1b43672d7a9ffdea70c2c0cbb283abe019df50e8bb64c0992b301"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "ade864be9b0be5ed45fe53e621c9bd30778cbf2cfbf702b27aca203abf1d7bf7"
 metafile = true
@@ -76,6 +86,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
 metafile = true
 
 [[files]]
@@ -126,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "039ccb2940a85c1171e7eb222a7da5a9531f3539a95c4cb6e77acc9b64a5e897"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "b886b1761e9a0e36cfc351c3e8cd3455fbe35143ade876c97cc43d02b07b061d"
 metafile = true
 
 [[files]]
@@ -607,6 +627,11 @@ hash = "fc3a4b6c05c2a79a0efcd319c646c9ee3891e5d67e261cff878ea16013da1ea7"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "a1eff7b33a54586b6989c7bfd89992f9d315f1c656b7596649d9af7017c6af7b"
+metafile = true
+
+[[files]]
 file = "mods/rch-supplementaries-compat.pw.toml"
 hash = "698844a6f8c3fb60697ea169f19a6757d5a94b65dbaa94dc6555d8a84f25d420"
 metafile = true
@@ -624,6 +649,11 @@ metafile = true
 [[files]]
 file = "mods/reframed.pw.toml"
 hash = "9851cdbbcb519f6b9f52ae673691581391a3eb6de3c2f9033800fb2bcdcd1307"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
 
 [[files]]
@@ -717,6 +747,11 @@ hash = "ced6fc15e8e1db49a6d6dce2c8d1341eaa547cf6d60216e32744eb03fab84182"
 metafile = true
 
 [[files]]
+file = "mods/straw-statues.pw.toml"
+hash = "64d83585506d7b0235001b79ac243e95c8c081d81b938a3c553233092bbd60c8"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "d6527df25f7bde5556b71899b89ce85830cd29ff529bd5845ee41a51cc4441ef"
 metafile = true
@@ -732,8 +767,8 @@ hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
 
 [[files]]
-file = "mods/twigs.pw.toml"
-hash = "f9dc092528290f0e8034fa9c8cbe25ba1dc271aab69aaf1045336a20406d0bc6"
+file = "mods/trowel.pw.toml"
+hash = "0d9cc245eda2446b891b435fb2b7fb8d9dab6e8e55bfb07a21bb89ba3518be67"
 metafile = true
 
 [[files]]
@@ -749,6 +784,11 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "56ee7ab28322827548d5dc12895c2e2f5f1c2ceb80656d709bec29dfa14657a3"
+metafile = true
+
+[[files]]
+file = "mods/villager-hats.pw.toml"
+hash = "ad59cc37ef888059fc2429052be88a9d776d98bda6559d093dd58b5f59247684"
 metafile = true
 
 [[files]]
