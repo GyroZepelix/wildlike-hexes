@@ -13,6 +13,10 @@ file = "config/identity.json5"
 hash = "5bda26d627f03632d086a93e0a77220e5da1c1b343fbb71ecb81bfe0662c3a92"
 
 [[files]]
+file = "config/modernfix-mixins.properties.disabled"
+hash = "c8026aad7c2c58c29b01ffa259161255568be730fb6e91d6214b56fcdd7d0933"
+
+[[files]]
 file = "config/patpat/ignore_mob_list.txt"
 hash = "81fad491a6b56c552ae119639edf98fcda13fdc33bfec1e69fa93b2e46b672c6"
 
@@ -47,8 +51,8 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
-file = "mods/atelier_of_glamour-1.0.0.jar"
-hash = "050788cbd2fe1c2711dc6e9845659c9ac865e6fe3ad2b4b897b584d42800af86"
+file = "mods/atelier_of_glamour-1.1.0.jar"
+hash = "b87f1444acab51e25c5222c2ee4d142b87b6ac42e2cf5b1ee0c75adfa153b334"
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
@@ -118,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/clay-soldiers.pw.toml"
 hash = "3bc01c741381fc2bf9eff1a1a2ee60ac251ee3b07c80ddb0acf8b5d2651e772e"
+metafile = true
+
+[[files]]
+file = "mods/clientsort.pw.toml"
+hash = "7a5a5f34cf985b32ecce6b6c2827fad48d5544f87af7235b8d1160f9a98e2b11"
 metafile = true
 
 [[files]]
@@ -417,6 +426,11 @@ metafile = true
 [[files]]
 file = "mods/hexstruction.pw.toml"
 hash = "e3ce9e4e1d4dbf12ae095dfe0d35061541c8b0f0932c54b0e400b0285ac35ddf"
+metafile = true
+
+[[files]]
+file = "mods/hextended-staves.pw.toml"
+hash = "f24bbafda4b129d94153f559f3f3612c6a96f167208f8e8f7c9d7a00237536e1"
 metafile = true
 
 [[files]]
