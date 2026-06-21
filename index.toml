@@ -175,6 +175,11 @@ hash = "b886b1761e9a0e36cfc351c3e8cd3455fbe35143ade876c97cc43d02b07b061d"
 metafile = true
 
 [[files]]
+file = "mods/discord-chat-connect.pw.toml"
+hash = "51aae49b298f426bd5a3ebcb53311a860861e49a367649264848a44ccdcde208"
+metafile = true
+
+[[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "a0231bdd8723f272f8aa09c57c331eaa3abca78a5a4fb00fdfe0c9fca11920bf"
 metafile = true
