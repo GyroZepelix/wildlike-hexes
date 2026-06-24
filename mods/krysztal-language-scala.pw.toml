@@ -1,0 +1,13 @@
+name = "Krysztal's Language Scala"
+filename = "krysztal-language-scala-3.3.0+scala.3.3.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ptd0Ha1s/versions/cJQz7WXz/krysztal-language-scala-3.3.0%2Bscala.3.3.6.jar"
+hash-format = "sha512"
+hash = "7db742775f9f203438dc0356b7e80ed20ed43163663af414805bdd5b5b07f603c598ba9fe064b184f0bb475e2caca5852f936e485438c66a8de4b01b001ac195"
+
+[update]
+[update.modrinth]
+mod-id = "Ptd0Ha1s"
+version = "cJQz7WXz"

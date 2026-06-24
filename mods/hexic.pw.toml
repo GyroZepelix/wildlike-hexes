@@ -1,0 +1,13 @@
+name = "Hexic"
+filename = "hexic-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2wn8r7k5/versions/pfhtMKuo/hexic-2.0.0.jar"
+hash-format = "sha512"
+hash = "20f1870fdef678aedf86444044dabaa1dd9fd0cbeea46c5201df82fb8b48d51e23f0b0bb835eb87ba95fd2eccc10d6b111f395605477acbc40a55dfc33a48acd"
+
+[update]
+[update.modrinth]
+mod-id = "2wn8r7k5"
+version = "pfhtMKuo"
