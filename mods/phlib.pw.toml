@@ -1,6 +1,6 @@
 name = "PhLib"
 filename = "phlib-0.1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/n1KUg8nl/versions/8lwfbYg9/phlib-0.1.2.jar"
