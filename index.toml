@@ -21,6 +21,10 @@ file = "config/patpat/ignore_mob_list.txt"
 hash = "81fad491a6b56c552ae119639edf98fcda13fdc33bfec1e69fa93b2e46b672c6"
 
 [[files]]
+file = "defaultconfigs/openpartiesandclaims-server.toml"
+hash = "ea56793f0b5692dbb6620915f291088b966da3f6b3387dc24c9dc4789d182ebf"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "b8dcd81b72048d30a1a7182dd6163c3cbd9658e22fa84e9dd2387164a649dd01"
 metafile = true

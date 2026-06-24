@@ -1,0 +1,19 @@
+[serverConfig.claims.protection]
+entitiesAllowedToGrief = [
+  "minecraft:sheep",
+  "interact$minecraft:potion",
+  "interact$minecraft:trident",
+  "interact$minecraft:(*_|)arrow",
+  "interact$minecraft:ender_pearl",
+  "interact$minecraft:egg",
+  "botania:*",
+]
+entitiesAllowedToGriefEntities = [
+  "interact$minecraft:potion",
+  "interact$minecraft:trident",
+  "interact$minecraft:(*_|)arrow",
+  "interact$minecraft:ender_pearl",
+  "interact$minecraft:egg",
+  "botania:*",
+]
+entitiesAllowedToGriefDroppedItems = ["botania:*"]
