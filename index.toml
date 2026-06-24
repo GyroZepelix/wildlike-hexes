@@ -657,13 +657,13 @@ hash = "e5e76b305f6e8fd611fb70695f42014c62e5f46b926d626eaf5ca0c78e394c5c"
 metafile = true
 
 [[files]]
-file = "mods/oneironaut-fabric-1.20.1-0.5.0.jar"
-hash = "69f760622b7b66762e37c9280c269bf1859bd7d6308eefd75ed1a9e42c7de54c"
+file = "mods/odyssey-claims.pw.toml"
+hash = "17009c6e2231242cc1673132342d3f4be28a7b1aaa6a2f35afa05807d4d70f6a"
+metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "d536c01087ca79d02b66600eb379c925bf59b393655e22ebf71ef4374cc50959"
-metafile = true
+file = "mods/oneironaut-fabric-1.20.1-0.5.0.jar"
+hash = "69f760622b7b66762e37c9280c269bf1859bd7d6308eefd75ed1a9e42c7de54c"
 
 [[files]]
 file = "mods/overevaluate-1.0.0-b220e5e.jar"
@@ -897,6 +897,11 @@ metafile = true
 [[files]]
 file = "mods/wakes.pw.toml"
 hash = "24cfa457173f8fd0aec773a4437c86dc22a9ef41c73514a2237160b514ff837d"
+metafile = true
+
+[[files]]
+file = "mods/wasabiwhisper-harmonia.pw.toml"
+hash = "beb468c5169ce7c5dfddfb8850ee9b330cb0c9c5650528320e741a27c35faa2e"
 metafile = true
 
 [[files]]
