@@ -334,6 +334,11 @@ hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
+file = "mods/flan.pw.toml"
+hash = "3471fd22ebf5690e2a6938bca9edab67e8b4ea089808f1cdbf3542667ef1c67c"
+metafile = true
+
+[[files]]
 file = "mods/focalworks.pw.toml"
 hash = "178e554e60aca563631ff9c12d3c502209a7b42d2a4f75f047a0442ee994607c"
 metafile = true
@@ -657,11 +662,6 @@ hash = "e5e76b305f6e8fd611fb70695f42014c62e5f46b926d626eaf5ca0c78e394c5c"
 metafile = true
 
 [[files]]
-file = "mods/odyssey-claims.pw.toml"
-hash = "a341fe76a39246b0321458edb9528e24fa1015aa7eb96e4851b781c7e50c9063"
-metafile = true
-
-[[files]]
 file = "mods/oneironaut-fabric-1.20.1-0.5.0.jar"
 hash = "69f760622b7b66762e37c9280c269bf1859bd7d6308eefd75ed1a9e42c7de54c"
 
@@ -897,11 +897,6 @@ metafile = true
 [[files]]
 file = "mods/wakes.pw.toml"
 hash = "24cfa457173f8fd0aec773a4437c86dc22a9ef41c73514a2237160b514ff837d"
-metafile = true
-
-[[files]]
-file = "mods/wasabiwhisper-harmonia.pw.toml"
-hash = "beb468c5169ce7c5dfddfb8850ee9b330cb0c9c5650528320e741a27c35faa2e"
 metafile = true
 
 [[files]]
