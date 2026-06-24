@@ -658,7 +658,7 @@ metafile = true
 
 [[files]]
 file = "mods/odyssey-claims.pw.toml"
-hash = "17009c6e2231242cc1673132342d3f4be28a7b1aaa6a2f35afa05807d4d70f6a"
+hash = "a341fe76a39246b0321458edb9528e24fa1015aa7eb96e4851b781c7e50c9063"
 metafile = true
 
 [[files]]
