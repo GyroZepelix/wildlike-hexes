@@ -170,6 +170,11 @@ hash = "e1d3ff09f3124154bf3cdd83783ea672aee7bdb6edda076574303a6bc2d4b512"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "a3f54d4b294683dbfe027dc01f9172bd828769afb435bb965f167e205640e7c3"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "039ccb2940a85c1171e7eb222a7da5a9531f3539a95c4cb6e77acc9b64a5e897"
 metafile = true
@@ -177,11 +182,6 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "b886b1761e9a0e36cfc351c3e8cd3455fbe35143ade876c97cc43d02b07b061d"
-metafile = true
-
-[[files]]
-file = "mods/discord-chat-connect.pw.toml"
-hash = "51aae49b298f426bd5a3ebcb53311a860861e49a367649264848a44ccdcde208"
 metafile = true
 
 [[files]]
