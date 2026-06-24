@@ -100,6 +100,11 @@ hash = "ade864be9b0be5ed45fe53e621c9bd30778cbf2cfbf702b27aca203abf1d7bf7"
 metafile = true
 
 [[files]]
+file = "mods/caduceus.pw.toml"
+hash = "870c93531e99b2c4e9385d52b02b39fec974a24de0a6e316c18ae68c1b873bbc"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
@@ -325,6 +330,11 @@ hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
+file = "mods/focalworks.pw.toml"
+hash = "178e554e60aca563631ff9c12d3c502209a7b42d2a4f75f047a0442ee994607c"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "adea09f1e1b05da68cf7407992a9391b15985acf5465a888e54ae076dbd543ab"
 metafile = true
@@ -385,8 +395,12 @@ hash = "2c79a103ca3b119e260cf0782eca1eab306bbc080ba8d5eae20f0e4adb9d8841"
 metafile = true
 
 [[files]]
-file = "mods/hexcassettes.pw.toml"
-hash = "39e27b12d6b188df2b249bf84ed8427c62a7d9c9802ab0469304d554f89f43be"
+file = "mods/hexcassettes-2.0.0-d8db411.jar"
+hash = "8c576f46cf2e8dbf7b61a1faacef7ca080130a6491a0508019ae1b8abe56a0f6"
+
+[[files]]
+file = "mods/hexcellular.pw.toml"
+hash = "006076b33c06c9283dc8a20971a25308ea8f2e60a5702c40fa96a8eeed1722af"
 metafile = true
 
 [[files]]
@@ -395,8 +409,18 @@ hash = "a7405f33ae83afcdcaa997eb9f164718692a54604f8d7be578d39180ddd25bf8"
 metafile = true
 
 [[files]]
+file = "mods/hexdebug.pw.toml"
+hash = "b48832001c692143d8140577323ec8033bfe868c44d79daa27cdd8a64913cf40"
+metafile = true
+
+[[files]]
 file = "mods/hexdentity.pw.toml"
 hash = "219c87934dbf0f71f47b76313d81242417cf3cc94632dbff4aa9afec6e51de1f"
+metafile = true
+
+[[files]]
+file = "mods/hexic.pw.toml"
+hash = "fa321719d1f84280c1fe02ca118becf65a7a9bad1152019e983814cc93a5a7e9"
 metafile = true
 
 [[files]]
@@ -524,8 +548,18 @@ hash = "59dda81c8012a0624e341357b0e21fde91b66e5774ffaa73ab875e06f214bd6b"
 metafile = true
 
 [[files]]
+file = "mods/jsonpatcher.pw.toml"
+hash = "f149e9b1b21f40c44f167ef018e7e310d164d49b4c0c0ed65dd6f64827496c17"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
+metafile = true
+
+[[files]]
+file = "mods/krysztal-language-scala.pw.toml"
+hash = "05e93433fff74ec3f16c8a1db4d0c88b67056b7a455e9e762ed7ab151e71b6de"
 metafile = true
 
 [[files]]
@@ -604,6 +638,11 @@ hash = "cdc3b40078ef395c5b4863a74dd58f6c3cd1a4f5eeea7e3782318ef28d99438c"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "b9b8556a8811636a5d29a99b4d5d6ef049fc8b219babf25ddfd848cae9c1dec7"
+metafile = true
+
+[[files]]
 file = "mods/nightlights.pw.toml"
 hash = "5075cd65e52c9e626435bbe88c572d1131cd919cbe3fda48c4734d2b1820313f"
 metafile = true
@@ -621,6 +660,10 @@ hash = "69f760622b7b66762e37c9280c269bf1859bd7d6308eefd75ed1a9e42c7de54c"
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "d536c01087ca79d02b66600eb379c925bf59b393655e22ebf71ef4374cc50959"
 metafile = true
+
+[[files]]
+file = "mods/overevaluate-1.0.0-b220e5e.jar"
+hash = "d506ec4b453cd980d95faf56f8d01149e4959c7c61fa99217c74789473964e45"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
@@ -645,6 +688,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
+metafile = true
+
+[[files]]
+file = "mods/phlib.pw.toml"
+hash = "413bb0833f61c5ad91de10334b676f19663495717d16be7cd2f4a97367499130"
 metafile = true
 
 [[files]]
