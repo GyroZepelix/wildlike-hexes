@@ -25,6 +25,10 @@ file = "defaultconfigs/openpartiesandclaims-server.toml"
 hash = "ea56793f0b5692dbb6620915f291088b966da3f6b3387dc24c9dc4789d182ebf"
 
 [[files]]
+file = "mods/ReFramed-1.6.7.jar"
+hash = "33331daee988e6bc53247845222ac50735828ef0e302a56c25e4a801d0811447"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "35228989dbf447ed8a124fda344ef42720b7811d1326cb3e7373cc06f72d63fc"
 metafile = true
@@ -737,11 +741,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
-metafile = true
-
-[[files]]
-file = "mods/reframed.pw.toml"
-hash = "9851cdbbcb519f6b9f52ae673691581391a3eb6de3c2f9033800fb2bcdcd1307"
 metafile = true
 
 [[files]]
